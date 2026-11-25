@@ -1,9 +1,9 @@
 {
-	"version": "0.5.1",
-	"package": "https://raw.githubusercontent.com/Okk1n/nb-base-releases/main/releases/nb-base-0.5.1.zip",
+	"version": "0.5.2",
+	"package": "https://raw.githubusercontent.com/Okk1n/nb-base-releases/main/releases/nb-base-0.5.2.zip",
 	"requires": "6.6",
 	"requires_php": "8.3",
 	"tested": "7.1",
-	"signature": "mqnLlUpCzRDYJjk1Tzbzx5o8AG/Pa/zxjjQ/FFKjQih1NM8LjT0A8/T6VPE+DspZaPv2KiVAgOdQCN+zkLfJAQ==",
+	"signature": "Wdf2twtCS1KnLrnrgVfhE4x7qciazuUFd9jHc1wQ5PoLDNRBjTJUQeK7JVKBSzx42RCS4F6fALpXrB56z1KmBQ==",
 	"date": "2026-11-25"
 }
